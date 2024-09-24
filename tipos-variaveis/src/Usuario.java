@@ -7,8 +7,6 @@ public class Usuario {
         System.out.println("Qual canal?" + smartTv.canal);
         System.out.println("Volume atual?" + smartTv.volume);
         System.out.println("Canal atual?" + smartTv.canal);
-
-
     
     smartTv.ligar ();
     System.out.println("Novo Status -> TV Ligada ? " + smartTv.ligada);
@@ -23,4 +21,3 @@ public class Usuario {
     System.out.println("Qual canal está a TV ? " + smartTv.canal);
     }
 }
-
